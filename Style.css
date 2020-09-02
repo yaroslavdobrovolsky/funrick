@@ -1,0 +1,52 @@
+#LOGO{
+	position: absolute;
+	right: 40%;
+	bottom: 81%;
+	border: 1px #3023BB solid;
+	border-radius: 10px;
+	padding-top: 1px;
+	background:#3023BB;
+	opacity: 60%;
+	transition: all, 0.5s;
+}
+body{
+	background: url(https://wallpaperaccess.com/full/637666.jpg);
+	background-size: 100%;
+}
+#LOGO:hover{
+	opacity: 100%;
+	transform: scale(1.05);
+}
+.FUN{
+	display: inline-block;
+	opacity: 75%;
+	top: 31%;
+	left: 100px;
+	position: absolute;
+	transition: all, 0.25s;
+}
+
+#i2{
+	left: 252.5px;
+}
+
+#i3{
+	left: 405px;
+}
+
+#i4{
+	left: 565px;
+}
+
+#i5{
+	left: 732px;
+}
+
+#i6{
+	left: 889.5px;
+}
+
+.FUN:hover{
+	opacity: 100%;
+	transform: scale(2);
+}
