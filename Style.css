@@ -12,6 +12,7 @@
 body{
 	background: url(https://wallpaperaccess.com/full/637666.jpg);
 	background-size: 100%;
+	overflow-x: hidden;
 }
 #LOGO:hover{
 	opacity: 100%;
@@ -21,29 +22,34 @@ body{
 	display: inline-block;
 	opacity: 75%;
 	top: 31%;
-	left: 100px;
+	left: 3.5%;
 	position: absolute;
 	transition: all, 0.25s;
 }
 
 #i2{
-	left: 252.5px;
+	left: 15%;
 }
 
 #i3{
-	left: 405px;
+	left: 30%;
 }
 
 #i4{
-	left: 565px;
+	left: 45%;
 }
 
 #i5{
-	left: 732px;
+	left: 60%;
 }
 
+
 #i6{
-	left: 889.5px;
+	left: 75%;
+}
+
+#i7{
+	left: 88%;
 }
 
 .FUN:hover{
